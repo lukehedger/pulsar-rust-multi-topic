@@ -1,0 +1,9 @@
+[package]
+name = "pulsar-rust-multi-topic"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+futures = "0.3"
+pulsar = "6.3"
+tokio = "1.0"
